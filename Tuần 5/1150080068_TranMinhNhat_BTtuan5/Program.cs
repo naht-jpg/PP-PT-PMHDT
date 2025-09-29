@@ -18,8 +18,8 @@ namespace _1150080068_TranMinhNhat_BTtuan5
             Application.SetCompatibleTextRenderingDefault(false);
             //Application.Run(new Form1());
             //Application.Run(new ApDung1());
-            Application.Run(new ApDung2());
-            //Application.Run(new ThucHanh2());
+            //Application.Run(new ApDung2());
+            Application.Run(new ThucHanh2());
         }
     }
 }

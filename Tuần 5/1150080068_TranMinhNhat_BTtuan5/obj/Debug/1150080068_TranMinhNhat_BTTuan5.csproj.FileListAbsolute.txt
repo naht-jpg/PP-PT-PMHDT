@@ -1,0 +1,26 @@
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\bin\Debug\1150080068_TranMinhNhat.exe.config
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\bin\Debug\1150080068_TranMinhNhat.exe
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\bin\Debug\1150080068_TranMinhNhat.pdb
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\obj\Debug\1150080068_TranMinhNhat_BTTuan5.csproj.AssemblyReference.cache
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\obj\Debug\_1150080068_TranMinhNhat.ApDung1.resources
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\obj\Debug\_1150080068_TranMinhNhat.ApDung2.resources
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\obj\Debug\_1150080068_TranMinhNhat.Form1.resources
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\obj\Debug\_1150080068_TranMinhNhat.Properties.Resources.resources
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\obj\Debug\_1150080068_TranMinhNhat.ThucHanh2.resources
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\obj\Debug\1150080068_TranMinhNhat_BTTuan5.csproj.GenerateResource.cache
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\obj\Debug\1150080068_TranMinhNhat_BTTuan5.csproj.CoreCompileInputs.cache
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\obj\Debug\1150080068_TranMinhNhat.exe
+D:\PP-PT-PMHDT\1150080068_TranMinhNhat\obj\Debug\1150080068_TranMinhNhat.pdb
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\bin\Debug\1150080068_TranMinhNhat_BTtuan5.exe.config
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\bin\Debug\1150080068_TranMinhNhat_BTtuan5.exe
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\bin\Debug\1150080068_TranMinhNhat_BTtuan5.pdb
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\obj\Debug\1150080068_TranMinhNhat_BTtuan5.csproj.AssemblyReference.cache
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\obj\Debug\_1150080068_TranMinhNhat_BTtuan5.ApDung1.resources
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\obj\Debug\_1150080068_TranMinhNhat_BTtuan5.ApDung2.resources
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\obj\Debug\_1150080068_TranMinhNhat_BTtuan5.Form1.resources
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\obj\Debug\_1150080068_TranMinhNhat.Properties.Resources.resources
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\obj\Debug\_1150080068_TranMinhNhat_BTtuan5.ThucHanh2.resources
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\obj\Debug\1150080068_TranMinhNhat_BTtuan5.csproj.GenerateResource.cache
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\obj\Debug\1150080068_TranMinhNhat_BTtuan5.csproj.CoreCompileInputs.cache
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\obj\Debug\1150080068_TranMinhNhat_BTtuan5.exe
+D:\PP-PT-PMHDT\Tuần 5\1150080068_TranMinhNhat_BTtuan5\obj\Debug\1150080068_TranMinhNhat_BTtuan5.pdb
