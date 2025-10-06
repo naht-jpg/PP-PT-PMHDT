@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 6\\1150080068_TranMinhNhat_Buoi6_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299B9358-CB3C-42AB-A74E-62F14BDDC53F}|1150080068_TranMinhNhat_Buoi6_Lab3.csproj|d:\\pp-pt-pmhdt\\tu\u1EA7n 6\\1150080068_tranminhnhat_buoi6_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299B9358-CB3C-42AB-A74E-62F14BDDC53F}|1150080068_TranMinhNhat_Buoi6_Lab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299B9358-CB3C-42AB-A74E-62F14BDDC53F}|1150080068_TranMinhNhat_Buoi6_Lab3.csproj|d:\\pp-pt-pmhdt\\tu\u1EA7n 6\\1150080068_tranminhnhat_buoi6_lab3\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{299B9358-CB3C-42AB-A74E-62F14BDDC53F}|1150080068_TranMinhNhat_Buoi6_Lab3.csproj|solutionrelative:thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299B9358-CB3C-42AB-A74E-62F14BDDC53F}|1150080068_TranMinhNhat_Buoi6_Lab3.csproj|d:\\pp-pt-pmhdt\\tu\u1EA7n 6\\1150080068_tranminhnhat_buoi6_lab3\\thuchanh1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299B9358-CB3C-42AB-A74E-62F14BDDC53F}|1150080068_TranMinhNhat_Buoi6_Lab3.csproj|solutionrelative:thuchanh1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299B9358-CB3C-42AB-A74E-62F14BDDC53F}|1150080068_TranMinhNhat_Buoi6_Lab3.csproj|d:\\pp-pt-pmhdt\\tu\u1EA7n 6\\1150080068_tranminhnhat_buoi6_lab3\\thuchanh1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{299B9358-CB3C-42AB-A74E-62F14BDDC53F}|1150080068_TranMinhNhat_Buoi6_Lab3.csproj|solutionrelative:thuchanh1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299B9358-CB3C-42AB-A74E-62F14BDDC53F}|1150080068_TranMinhNhat_Buoi6_Lab3.csproj|d:\\pp-pt-pmhdt\\tu\u1EA7n 6\\1150080068_tranminhnhat_buoi6_lab3\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299B9358-CB3C-42AB-A74E-62F14BDDC53F}|1150080068_TranMinhNhat_Buoi6_Lab3.csproj|solutionrelative:thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThucHanh2.cs",
+              "DocumentMoniker": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 6\\1150080068_TranMinhNhat_Buoi6_Lab3\\ThucHanh2.cs",
+              "RelativeDocumentMoniker": "ThucHanh2.cs",
+              "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 6\\1150080068_TranMinhNhat_Buoi6_Lab3\\ThucHanh2.cs",
+              "RelativeToolTip": "ThucHanh2.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:47:29.468Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThucHanh2.cs [Design]",
+              "DocumentMoniker": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 6\\1150080068_TranMinhNhat_Buoi6_Lab3\\ThucHanh2.cs",
+              "RelativeDocumentMoniker": "ThucHanh2.cs",
+              "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 6\\1150080068_TranMinhNhat_Buoi6_Lab3\\ThucHanh2.cs [Design]",
+              "RelativeToolTip": "ThucHanh2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:26:09.143Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThucHanh1.cs [Design]",
+              "DocumentMoniker": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 6\\1150080068_TranMinhNhat_Buoi6_Lab3\\ThucHanh1.cs",
+              "RelativeDocumentMoniker": "ThucHanh1.cs",
+              "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 6\\1150080068_TranMinhNhat_Buoi6_Lab3\\ThucHanh1.cs [Design]",
+              "RelativeToolTip": "ThucHanh1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:53:46.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 6\\1150080068_TranMinhNhat_Buoi6_Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 6\\1150080068_TranMinhNhat_Buoi6_Lab3\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:28:03.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThucHanh1.cs",
+              "DocumentMoniker": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 6\\1150080068_TranMinhNhat_Buoi6_Lab3\\ThucHanh1.cs",
+              "RelativeDocumentMoniker": "ThucHanh1.cs",
+              "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 6\\1150080068_TranMinhNhat_Buoi6_Lab3\\ThucHanh1.cs",
+              "RelativeToolTip": "ThucHanh1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:21:08.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
