@@ -28,12 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btnSLSV = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnSLSV
+            // 
+            this.btnSLSV.Location = new System.Drawing.Point(182, 155);
+            this.btnSLSV.Name = "btnSLSV";
+            this.btnSLSV.Size = new System.Drawing.Size(173, 99);
+            this.btnSLSV.TabIndex = 0;
+            this.btnSLSV.Text = "Số lượng sinh viên";
+            this.btnSLSV.UseVisualStyleBackColor = true;
+            this.btnSLSV.Click += new System.EventHandler(this.btnSLSV_Click);
+            // 
+            // ThucHanh2
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(560, 446);
+            this.Controls.Add(this.btnSLSV);
+            this.Name = "ThucHanh2";
             this.Text = "ThucHanh2";
+            this.Load += new System.EventHandler(this.ThucHanh2_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnSLSV;
     }
 }
