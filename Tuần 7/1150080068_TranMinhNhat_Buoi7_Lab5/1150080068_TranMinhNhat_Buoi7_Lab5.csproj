@@ -91,6 +91,12 @@
     <Compile Include="ThucHanh2.Designer.cs">
       <DependentUpon>ThucHanh2.cs</DependentUpon>
     </Compile>
+    <Compile Include="ThucHanh3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThucHanh3.Designer.cs">
+      <DependentUpon>ThucHanh3.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -102,6 +108,9 @@
     </Compile>
     <EmbeddedResource Include="ThucHanh2.resx">
       <DependentUpon>ThucHanh2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThucHanh3.resx">
+      <DependentUpon>ThucHanh3.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
       <SubType>Designer</SubType>

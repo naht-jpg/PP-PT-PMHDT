@@ -18,7 +18,7 @@ namespace _1150080068_TranMinhNhat_Buoi7_Lab5
         {
             InitializeComponent();
 
-            // Chuẩn hóa ListView (nếu designer chưa cấu hình)
+            // Chuẩn hóa ListView 
             lstvBangSV.View = View.Details;
             lstvBangSV.FullRowSelect = true;
             lstvBangSV.GridLines = true;
@@ -99,7 +99,7 @@ namespace _1150080068_TranMinhNhat_Buoi7_Lab5
             }
         }
 
-        // ============== THÊM (INSERT) — KHÔNG DÙNG PARAMETER ==============
+        // ============== THÊM (INSERT)  ==============
         private void btnThemSV_Click(object sender, EventArgs e)
         {
             if (_conn == null || _conn.State != ConnectionState.Open)

@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 7\\1150080068_TranMinhNhat_Buoi7_Lab5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|d:\\pp-pt-pmhdt\\tu\u1EA7n 7\\1150080068_tranminhnhat_buoi7_lab5\\thuchanh3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|solutionrelative:thuchanh3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|D:\\PP-PT-PMHDT\\Tu\u1EA7n 7\\1150080068_TranMinhNhat_Buoi7_Lab5\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|solutionrelative:thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|d:\\pp-pt-pmhdt\\tu\u1EA7n 7\\1150080068_tranminhnhat_buoi7_lab5\\thuchanh3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|solutionrelative:thuchanh3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|d:\\pp-pt-pmhdt\\tu\u1EA7n 7\\1150080068_tranminhnhat_buoi7_lab5\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|solutionrelative:thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|d:\\pp-pt-pmhdt\\tu\u1EA7n 7\\1150080068_tranminhnhat_buoi7_lab5\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|solutionrelative:thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|d:\\pp-pt-pmhdt\\tu\u1EA7n 7\\1150080068_tranminhnhat_buoi7_lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|D:\\PP-PT-PMHDT\\Tu\u1EA7n 7\\1150080068_TranMinhNhat_Buoi7_Lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D922BC82-FDF5-4763-8815-35C4EA730857}|1150080068_TranMinhNhat_Buoi7_Lab5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +30,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThucHanh3.cs",
+              "DocumentMoniker": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 7\\1150080068_TranMinhNhat_Buoi7_Lab5\\ThucHanh3.cs",
+              "RelativeDocumentMoniker": "ThucHanh3.cs",
+              "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 7\\1150080068_TranMinhNhat_Buoi7_Lab5\\ThucHanh3.cs",
+              "RelativeToolTip": "ThucHanh3.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwJgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:56:03.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ThucHanh3.cs [Design]",
+              "DocumentMoniker": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 7\\1150080068_TranMinhNhat_Buoi7_Lab5\\ThucHanh3.cs",
+              "RelativeDocumentMoniker": "ThucHanh3.cs",
+              "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 7\\1150080068_TranMinhNhat_Buoi7_Lab5\\ThucHanh3.cs [Design]",
+              "RelativeToolTip": "ThucHanh3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T01:54:17.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 7\\1150080068_TranMinhNhat_Buoi7_Lab5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -34,8 +67,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwBEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T00:57:44.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T00:57:44.21Z"
             },
             {
               "$type": "Document",
@@ -45,14 +77,14 @@
               "RelativeDocumentMoniker": "ThucHanh2.cs",
               "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 7\\1150080068_TranMinhNhat_Buoi7_Lab5\\ThucHanh2.cs",
               "RelativeToolTip": "ThucHanh2.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwB8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T00:57:09.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ThucHanh2.cs [Design]",
               "DocumentMoniker": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 7\\1150080068_TranMinhNhat_Buoi7_Lab5\\ThucHanh2.cs",
               "RelativeDocumentMoniker": "ThucHanh2.cs",
