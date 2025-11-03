@@ -32,7 +32,7 @@
             this.txtDiaChi = new System.Windows.Forms.TextBox();
             this.txtTenNXB = new System.Windows.Forms.TextBox();
             this.txtMaNXB = new System.Windows.Forms.TextBox();
-            this.btnThem = new System.Windows.Forms.Button();
+            this.btnChinhSua = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -49,7 +49,7 @@
             this.groupBox2.Controls.Add(this.txtDiaChi);
             this.groupBox2.Controls.Add(this.txtTenNXB);
             this.groupBox2.Controls.Add(this.txtMaNXB);
-            this.groupBox2.Controls.Add(this.btnThem);
+            this.groupBox2.Controls.Add(this.btnChinhSua);
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Controls.Add(this.label2);
@@ -85,15 +85,15 @@
             this.txtMaNXB.TabIndex = 4;
             this.txtMaNXB.TextChanged += new System.EventHandler(this.txtMaNXB_TextChanged);
             // 
-            // btnThem
+            // btnChinhSua
             // 
-            this.btnThem.Location = new System.Drawing.Point(73, 267);
-            this.btnThem.Name = "btnThem";
-            this.btnThem.Size = new System.Drawing.Size(205, 62);
-            this.btnThem.TabIndex = 3;
-            this.btnThem.Text = "Thêm dữ liệu";
-            this.btnThem.UseVisualStyleBackColor = true;
-            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
+            this.btnChinhSua.Location = new System.Drawing.Point(73, 267);
+            this.btnChinhSua.Name = "btnChinhSua";
+            this.btnChinhSua.Size = new System.Drawing.Size(205, 62);
+            this.btnChinhSua.TabIndex = 3;
+            this.btnChinhSua.Text = "Chỉnh sửa thông tin";
+            this.btnChinhSua.UseVisualStyleBackColor = true;
+            this.btnChinhSua.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // label4
             // 
@@ -180,7 +180,7 @@
         private System.Windows.Forms.TextBox txtDiaChi;
         private System.Windows.Forms.TextBox txtTenNXB;
         private System.Windows.Forms.TextBox txtMaNXB;
-        private System.Windows.Forms.Button btnThem;
+        private System.Windows.Forms.Button btnChinhSua;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;

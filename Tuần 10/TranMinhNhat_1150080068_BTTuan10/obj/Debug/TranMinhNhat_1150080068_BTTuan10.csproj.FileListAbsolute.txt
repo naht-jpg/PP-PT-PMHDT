@@ -35,3 +35,5 @@ D:\PP-PT-PMHDT\Tuần 10\TranMinhNhat_1150080068_BTTuan10\obj\Debug\TranMinh.603
 D:\PP-PT-PMHDT\Tuần 10\TranMinhNhat_1150080068_BTTuan10\obj\Debug\TranMinhNhat_1150080068_BTTuan10.exe
 D:\PP-PT-PMHDT\Tuần 10\TranMinhNhat_1150080068_BTTuan10\obj\Debug\TranMinhNhat_1150080068_BTTuan10.pdb
 D:\PP-PT-PMHDT\Tuần 10\TranMinhNhat_1150080068_BTTuan10\obj\Debug\TranMinhNhat_1150080068_BTTuan10.ThucHanh2.resources
+D:\PP-PT-PMHDT\Tuần 10\TranMinhNhat_1150080068_BTTuan10\obj\Debug\TranMinhNhat_1150080068_BTTuan10.ThucHanh3.resources
+D:\PP-PT-PMHDT\Tuần 10\TranMinhNhat_1150080068_BTTuan10\obj\Debug\TranMinhNhat_1150080068_BTTuan10.ThucHanh4.resources

@@ -127,6 +127,9 @@
     <EmbeddedResource Include="ThucHanh3.resx">
       <DependentUpon>ThucHanh3.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ThucHanh4.resx">
+      <DependentUpon>ThucHanh4.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
       <SubType>Designer</SubType>
     </None>
