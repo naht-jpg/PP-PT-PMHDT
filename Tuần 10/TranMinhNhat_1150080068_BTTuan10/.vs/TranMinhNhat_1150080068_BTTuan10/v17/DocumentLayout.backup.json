@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 10\\TranMinhNhat_1150080068_BTTuan10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03B20C3B-56D3-4A34-A373-219320C36325}|TranMinhNhat_1150080068_BTTuan10.csproj|D:\\PP-PT-PMHDT\\Tu\u1EA7n 10\\TranMinhNhat_1150080068_BTTuan10\\thuchanh4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{03B20C3B-56D3-4A34-A373-219320C36325}|TranMinhNhat_1150080068_BTTuan10.csproj|solutionrelative:thuchanh4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{03B20C3B-56D3-4A34-A373-219320C36325}|TranMinhNhat_1150080068_BTTuan10.csproj|d:\\pp-pt-pmhdt\\tu\u1EA7n 10\\tranminhnhat_1150080068_bttuan10\\thuchanh4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03B20C3B-56D3-4A34-A373-219320C36325}|TranMinhNhat_1150080068_BTTuan10.csproj|solutionrelative:thuchanh4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B20C3B-56D3-4A34-A373-219320C36325}|TranMinhNhat_1150080068_BTTuan10.csproj|D:\\PP-PT-PMHDT\\Tu\u1EA7n 10\\TranMinhNhat_1150080068_BTTuan10\\thuchanh4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03B20C3B-56D3-4A34-A373-219320C36325}|TranMinhNhat_1150080068_BTTuan10.csproj|solutionrelative:thuchanh4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03B20C3B-56D3-4A34-A373-219320C36325}|TranMinhNhat_1150080068_BTTuan10.csproj|D:\\PP-PT-PMHDT\\Tu\u1EA7n 10\\TranMinhNhat_1150080068_BTTuan10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -44,25 +44,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ThucHanh4.cs",
               "DocumentMoniker": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 10\\TranMinhNhat_1150080068_BTTuan10\\ThucHanh4.cs",
               "RelativeDocumentMoniker": "ThucHanh4.cs",
-              "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 10\\TranMinhNhat_1150080068_BTTuan10\\ThucHanh4.cs*",
-              "RelativeToolTip": "ThucHanh4.cs*",
-              "ViewState": "AgIAAEwAAAAAAAAAAIA0wE4AAAAMAAAAAAAAAA==",
+              "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 10\\TranMinhNhat_1150080068_BTTuan10\\ThucHanh4.cs",
+              "RelativeToolTip": "ThucHanh4.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAUwH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T00:51:19.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ThucHanh4.cs [Design]",
               "DocumentMoniker": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 10\\TranMinhNhat_1150080068_BTTuan10\\ThucHanh4.cs",
               "RelativeDocumentMoniker": "ThucHanh4.cs",
-              "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 10\\TranMinhNhat_1150080068_BTTuan10\\ThucHanh4.cs [Design]*",
-              "RelativeToolTip": "ThucHanh4.cs [Design]*",
+              "ToolTip": "D:\\PP-PT-PMHDT\\Tu\u1EA7n 10\\TranMinhNhat_1150080068_BTTuan10\\ThucHanh4.cs [Design]",
+              "RelativeToolTip": "ThucHanh4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T00:20:01.289Z",
               "EditorCaption": " [Design]"

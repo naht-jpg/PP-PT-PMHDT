@@ -20,6 +20,7 @@ namespace TranMinhNhat_1150080068_BTTuan10
             //Application.Run(new ThucHanh2());
             //Application.Run(new ThucHanh3());
             Application.Run(new ThucHanh4());
+            Application.Run(new Phan4());
         }
     }
 }
